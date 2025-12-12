@@ -1,0 +1,513 @@
+
+.bandeau{
+        background-color: #4a4a4a;
+        height: 100px;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;  
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #02101f;
+    height: 100vh;
+}
+
+.logo:hover{
+    opacity: 0.7;
+}
+
+.loupe{
+    margin-top: 12px;
+    margin-left: -304px;
+}
+
+  
+.bouton_acceuil{ 
+    font-size: 45px;
+    margin-left: 50px;
+    background-color: #4a4a4a;
+    font-family: "BBH Sans Hegarty";
+    color: #212121;
+}
+
+
+.bouton_contact{
+    font-size: 30px;
+    margin-left: 35px;
+    background-color: #4a4a4a;
+    font-family: "BBH Sans Hegarty";
+    color: #212121;
+
+}
+
+.bouton_bio{
+    font-size: 30px;
+    margin-left: 20px;
+    background-color: #4a4a4a;
+    font-family: "BBH Sans Hegarty";
+    color: #212121;
+}
+
+
+.bouton_recherche{
+    font-size: 45px;
+    margin-left: 45px;
+    width: 125%;
+    background-color: rgba(179, 179, 179, 0.837);
+    border-radius: 150px;
+    border: 15px color(srgb rgb(48, 40, 40) green blue);
+    font-family: "BBH Sans Hegarty";
+    border: 3px solid black;
+    opacity:0.75;
+    color: #181818;
+}
+
+.bouton_se_connecter{
+    font-size: 20px;
+    margin-left: 190px;
+    background-color: #4a4a4a;
+    font-family: "BBH Sans Hegarty";
+    color: #212121;
+} 
+
+.bouton_se_connecter:hover{
+color: rgb(63, 63, 63);
+}
+
+.bouton_acceuil:hover{
+color: rgb(63, 63, 63);
+}
+
+.bouton_contact:hover{
+color: rgb(63, 63, 63);
+}
+
+.bouton_bio:hover{
+color: rgb(63, 63, 63);
+}
+
+.bouton_recherche:hover{
+color: rgb(63, 63, 63);
+}
+
+.bouton_se_connecter:hover{
+color: rgb(63, 63, 63);
+}
+
+
+.la_ciné_zone{
+    background-color: rgb(81, 27, 90);
+    font-size:  40px;
+    font-family: "BBH Sans Bartle";
+    height: 200px;     
+    margin-top: 2px;        
+    display: flex;             
+    justify-content: center;   
+    align-items: center;
+}
+
+
+
+
+article{
+  background-color: #02101f;
+  height: 350px;
+  margin-top: 20px;
+  display: flex;          
+  align-items: center;
+  justify-content: center;
+  justify-content:space-between;
+  
+}
+ 
+
+.image_pulp_fiction{
+    height: 350px;             
+    width: 250px;
+    margin-top: 4px;
+    padding-left: 75px;
+}
+
+
+.cadre_pulp_fiction{
+    background-color: #02101f;
+    font-size: 35px;
+    margin-right: 80px;
+    margin-left: 50px;
+    padding: 1px 400px;
+}
+
+
+.titre_pulp_fiction{
+    background-color: #d012129d;
+    color: #a8b30adb;
+    margin-top: -30px;
+    margin-bottom: -90px;
+    font-family: "Caprasimo";
+    text-align: center;
+    border-radius: 100px;
+}
+
+.texte_pulp_fiction{
+    background-color: #02101f;
+    color: #a8b30aea;
+    font-size: 25px;
+    margin-top: 120px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: -300px;
+    margin-right: -300px;
+    font-family: "Caprasimo";
+    text-align: center;
+}
+
+
+
+
+article2{
+    background-color: #02101f;
+    height: 350px;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;          
+  margin-right: 1000px;
+  align-items: center;
+  
+}
+
+.image_whiplash{
+    height: 350px;             
+    width: 250px;
+    margin-top: 103px;
+    margin-bottom: 100px;
+    margin-right: 75px;
+}
+
+.cadre_whiplash{
+    background-color: #02101f;
+    height: 20px;
+    font-size: 35px;
+    margin-top: -35px;
+    margin-bottom: -35px;
+    margin-left: -50px;
+    padding: 165px 450px;
+}
+
+
+.titre_whiplash{
+    background-color: #14080866;
+    color: #ffffffe3;
+    margin-top: -195px;
+    margin-bottom: -90px;
+    margin-left: 90px;
+    font-family: "Oswald";
+    font-weight: 900;
+    text-align: center;
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 100px;
+}
+
+.texte_whiplash{
+    background-color: #02101f;
+    color: #ffffffe3;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 120px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: -300px;
+    margin-right: -300px;
+    font-family: "Oswald";
+    text-align: center;
+    
+}
+
+
+
+
+article3{
+  background-color: #02101f;
+  height: 350px;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;          
+  align-items: center;
+  justify-content: center;
+  justify-content:space-between;
+  
+}
+ 
+
+.image_la_haine{
+    height: 350px;             
+    width: 250px;
+    margin-top: 4px;
+    padding-left: 75px;
+}
+
+
+.cadre_la_haine{
+    background-color: #02101f;
+    font-size: 35px;
+    margin-right: 100px;
+    margin-left: 150px;
+    padding: 14px 120px;
+    }
+
+
+.titre_la_haine{
+    background-color: #14080866;
+    color: #ffffffe3;
+    margin-top: -30px;
+    margin-bottom: -95px;
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 100px;
+    font-size: 30px;
+    width: fit-content;
+    padding: 0px 17px;
+    margin-left: 170px;
+
+    
+}
+
+.texte_la_haine{
+    background-color: #02101f;
+    color: #ffffffe3;
+    font-size: 18px;
+    margin-top: 120px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: -100px;
+    margin-right: -100px;
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+article4{
+  background-color: #4a4a4a;
+  height: 110px;
+  width: 100%;
+  margin-top: 100px;
+  padding-bottom: 36px;
+  display: flex;          
+  align-items: center;
+  justify-content:space-between;
+}
+
+.cadre_réseaux{
+    background-color: #4a4a4a;
+    font-size: 35px;
+    margin-right: 150px;
+    margin-left: 50px;
+    margin-top: 116px;
+    margin-bottom: 80px;
+    padding: 25px 150px;
+    height: 95px;
+    display: flex; 
+    align-items: center;
+    justify-content:space-between;
+   
+    
+}
+
+.suivez_nous{
+    font-family: "BBH Sans Hegarty";
+    background-color: #4a4a4a;
+    width: fit-content;
+    margin-left: -120px;
+    margin-right: 30px;
+}
+
+.snap{
+    margin-left: -15px;
+    margin-right: 5px;
+}
+
+
+
+
+.cadre_news{ 
+  background-color: #302215;
+  width: 200px;
+  height: 100px;
+  margin-right: 150px;
+  margin-top: 37px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;  
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;
+  border-radius: 10px;
+}
+
+.newslatter{
+  font-family: "BBH Sans Hegarty";
+  font-size: 35px;
+  margin-top: 25px;                 
+}
+
+.inscription{
+  font-size: 20px;
+  padding: 5px 10px;
+  border-radius: 7px;
+  margin-top: -10px;
+  margin-bottom: 70px;         
+  border: none;
+  background-color: #a02222eb;
+  color: white;
+}
+
+.inscription:hover{
+color: rgb(100, 98, 98);
+}
+
+.snap:hover{
+   opacity: 0.7;
+}
+
+.insta:hover{
+    opacity: 0.7;
+}
+
+.pinterest:hover{
+    opacity: 0.7
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dark-mode {
+    background-color: #f3f3f3;  
+    color: #f3f3f3}
+
+
+.dark-mode .bandeau{
+    background-color: #4a4a4a}
+
+
+.dark-mode button {
+    background-color: #222;
+    color: white;
+    border: 1px solid white
+}
+
+
+
+
+.dark-mode article,
+.dark-mode .cadre_pulp_fiction,
+.dark-mode .texte_pulp_fiction,
+.dark-mode .cadre_whiplash,
+.dark-mode .texte_whiplash,
+.dark-mode .cadre_la_haine,
+.dark-mode .texte_la_haine {
+    background-color: #f3f3f3;
+    color: black;
+}
+
+
+.dark-mode .titre_pulp_fiction,
+.dark-mode .titre_whiplash,
+.dark-mode .titre_la_haine{
+    color: #ffffffe3;
+    background-color: rgba(0, 0, 0, 1)
+}
+
+
+
+.dark-mode .cadre_news{
+    background-color: #302215; 
+    color: #d5d5d5
+}
+.dark-mode .suivez_nous{
+    color: #d5d5d5
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#burger {
+    font-size: 20px;
+    cursor:pointer;
+    background-color:#999999;
+    padding: 10px;
+    width:20px;
+    border-radius: 5px;
+    text-align:center;
+    margin: 20px
+}
+
+
+
+#liste li 
+{padding: 8px;
+cursor: pointer}
+
+
+#liste li:hover 
+{background-color:#ddd}
+
+
+
+
+
+
+#liste{
+    
+    margin: 10px;
+    padding: 0;
+    background-color: #eee;
+    width: 120px;
+    border-radius:5px;
+    list-style: none;
+    opacity:0;               
+    transform:translateX(-10px);
+    transition: 0.3s;}
+
+#liste.show {
+    opacity: 1;
+    transform: translateX(0)}
